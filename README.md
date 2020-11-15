@@ -3,5 +3,5 @@ Landing Page Project Description This is the second project of the Front End's U
 
 The function uses a &lt;for loop> with and &lt;if else> condition. Finally, we call the function on scroll. Scroll to anchor ID with smooth behavior using a &lt;forEach> loop and an &lt;eventListener>. Build a scroll to top button that appears when the user scrolls below the fold of the page. To create this button I've used a fontawesome icon with an arrow. I think that fits better with the style of the page, also, this icon has an &lt;eventListener> on click to smooth scroll up. 
 
-Tools 
+# Tools 
 Visual Studio Code 
